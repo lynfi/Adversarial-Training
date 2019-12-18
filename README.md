@@ -1,8 +1,9 @@
 # Adversarial Training 
 
-## PGD train
+## PGD train for WideResnet
 
 The codes can run with the following command:
+
 Vanilla adversarial training. 
 ```
 python pgdtrain.py --pgd
