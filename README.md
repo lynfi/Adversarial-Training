@@ -13,4 +13,8 @@ python pgdtrain.py --pgd --lowpass --fre [number of frequencies used]
 ```
 
 
-## 
+### Reference
+Towards Deep Learning Models Resistant to Adversarial Attacks
+Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu
+https://arxiv.org/abs/1706.06083.
+
